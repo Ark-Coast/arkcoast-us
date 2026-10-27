@@ -1,4 +1,4 @@
-# ark-coast.com
+# arkcoast.us
 
 Company page for Ark Coast. It's a single static page that links to our Amazon storefront. All sales happen on Amazon.
 
@@ -11,7 +11,7 @@ Hosted on GitHub Pages from the `main` branch root. There's no build step, so ed
 - `CNAME`: custom domain for GitHub Pages (don't delete)
 - `.nojekyll`: tells GitHub Pages to serve files as-is
 
-## DNS (Namecheap → Domain List → ark-coast.com → Advanced DNS)
+## DNS (Namecheap → Domain List → arkcoast.us → Advanced DNS)
 
 | Type  | Host | Value                |
 |-------|------|----------------------|
